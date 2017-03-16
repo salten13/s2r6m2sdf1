@@ -29,7 +29,7 @@ public class BestTravel {
 
 
         Integer it = chooseBestSum(t, 3, ts );
-
+	System.out.println("Hello  World);
         System.out.println(it);
     }
 }
